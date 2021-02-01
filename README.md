@@ -1,7 +1,7 @@
-# fluttercrud
+# FlutterCRUD
 
-CRUD simples desenvolvido em flutter usando  provider para gerenciar dados, nao incuido ainda persistencia de dados
+CRUD simples desenvolvido em flutter utilzando provider para gerenciamento de dados, nao incluido ainda a persistencia de dados.
 
-## Getting Started
+## Principal
 
 ![github-small](https://github.com/AlexandreRHeck/crud/blob/main/usuarios.png)
