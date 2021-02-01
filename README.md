@@ -1,6 +1,6 @@
 # fluttercrud
 
-A new Flutter application.
+CRUD simples desenvolvido em flutter usando  provider para gerenciar dados, nao incuido ainda persistencia de dados
 
 ## Getting Started
 
